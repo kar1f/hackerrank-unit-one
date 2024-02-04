@@ -6,8 +6,8 @@
 int main(){
     int principal;
     scanf("%d\n", &principal);
-    int rate_of_interest;
-    scanf("%d\n", &rate_of_interest);
+    double rate_of_interest;
+    scanf("%lf\n", &rate_of_interest);
     int time;
     scanf("%d\n", &time);
     double simple_interest;
