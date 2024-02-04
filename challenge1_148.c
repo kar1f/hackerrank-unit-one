@@ -1,5 +1,5 @@
-// Author:
-// Author URL: 
+// Author: MD. KARIF HASAN
+// Author URL: https://kar1f.github.io/
 
 #include "stdio.h"
 
